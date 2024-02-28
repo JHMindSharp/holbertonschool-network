@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
-# This script provides a brief explanation of the OSI Model and its layers.
+# This script provides an explanation of the OSI Model according to the provided documentation.
 
-1   2
-2   2
+cat << "EOF"
+2
+
+2
+EOF
