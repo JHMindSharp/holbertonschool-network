@@ -1,4 +1,4 @@
-![Network](![Alt text de l'image](URL_de_l'image)
+![Network](![Alt text de l'image](URL_de_l'image))
 # Networking Basics #0
 
 This project is designed to introduce the fundamental concepts of networking, focusing on key topics such as the OSI model, different types of networks (LAN, WAN, Internet), MAC and IP addresses, as well as TCP and UDP protocols. It's a great opportunity for beginners to familiarize themselves with the networking world and understand how data is transferred from one point to another in a computing environment.
