@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
-# This script provides an explanation of the OSI Model according to the provided documentation.
+# This script provides the answers to the OSI model questions
 
-cat << "EOF"
-2
+# Print the answers to the file
+echo "1 2" > 0-OSI_model
 
-2
-EOF
+echo "2 2" >> 0-OSI_model
