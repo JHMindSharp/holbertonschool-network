@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
-# This script displays all active IPv4 IPs on the machine
+# This script displays all active IPv4 IPs on the machine, one per line
 
-hostname -I
+cut -f 1 /etc/hosts | sed '/::/d'
